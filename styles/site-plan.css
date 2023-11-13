@@ -111,6 +111,7 @@ nav  {
 }
 nav a {
   padding:1em;
+  margin: auto auto;
   min-width: 120px;
   text-decoration: none;
   padding: 10px;
@@ -173,6 +174,7 @@ nav a:hover {
   border-right: 1px solid;
 }
 
-#contact {
-  
+img {
+  background-image:url(https://images.unsplash.com/photo-1596524430615-b46475ddff6e?auto=format&fit=crop&q=80&w=2670&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  width: 50%;
 }
